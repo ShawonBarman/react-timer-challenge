@@ -1,6 +1,8 @@
 # react-timer-challenge
 A simple React application demonstrating the use of React refs, portals, and timers. The app allows users to set their name and participate in different timer-based challenges with varying difficulty levels. Each challenge runs on a timer, and the user can start, stop, or reset the timer as needed.
 
+### Live: https://react-timer-challenge-app.netlify.app/
+
 ## Features
 - Set and display player names using refs.
 - Multiple timer challenges with difficulty levels.
